@@ -23,6 +23,8 @@ https://arxiv.org/abs/2104.08696
 
 3. Transformers in Time Series: A Survey [Date - November 07, 2022]
 
+Transformer is arguably the most successful architecture that offers rapid acceleration conquering vast majority of cutting-edge models in the AI/ML field. A notable instance includes BERT, which, when applied to Google Search, resulted in "one of the biggest leaps forward in the history of Search". Transformers have already dominated Natural Language Processing and Computer Vision, demonstrating excellent performance, and this victory has sparked the rise of transformers in the time series community. How does Transformer models time series? Will it cover underlined challenges in time series? What would be its future?
+
 -Authored by: by Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, Liang Sun
 
 Paper link : https://arxiv.org/abs/2202.07125
