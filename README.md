@@ -34,3 +34,20 @@ Paper link : https://arxiv.org/abs/2202.07125
 Presentation link: https://docs.google.com/presentation/d/1VcGSiK1wOEjdGJG2wXSgkjDVzbYes7Q4I2z1otZY8us/edit?usp=sharing
 
 
+4. Machinery Fault Diagnosis Based on Deep Learning for Time Series Analysis & Knowledge Graphs  [Date - February 13, 2023]
+-Authored by: Haiying Liu, Ruizhe Ma, Daiyi Li, Li Yan & Zongmin Ma 
+Paper link : https://link.springer.com/article/10.1007/s11265-021-01718-3
+Presentation link: https://docs.google.com/presentation/d/1OgHsd0787SINz8QdJKPpfrj2i4iCjACIvZJh16K1U8g/edit#slide=id.p
+Video link : https://www.youtube.com/watch?v=15sAZfbniLU&list=PLqJzTtkUiq5743-5B2Jss5tPPq-wSSFSw&index=6
+
+5. The Signal and the Noise-Book review   [Date - February 21 & 23, 2023]
+-Authored by: Nate Silver
+Video links: 
+Part 1- https://www.youtube.com/watch?v=XviS19OJ67s
+Part 2- https://www.youtube.com/watch?v=8pPp3fwvJCE
+
+6. Time Series Data Augmentation for Deep Learning: A Survey [Date - February 24, 2023]
+-Authored by: Qingsong Wen, Liang Sun, Fan Yang, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu
+Paper link : https://arxiv.org/pdf/2002.12478.pdf
+Presentation link: https://docs.google.com/presentation/d/1jjNhkaMrd_bfpp1rjbfjdERL5Txqjg4srIa74d4u5Lw/edit#slide=id.p
+
